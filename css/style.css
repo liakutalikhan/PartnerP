@@ -160,6 +160,6 @@ button {
     color: #ED7F1F;
 }
 .position_img img{position: absolute;}
-.position_img img:nth-child(1){right: -90px;top:-115px;width: 350px;background-color:#441A1C;z-index: 1 }
+.position_img img:nth-child(1){right: -90px;top:-111px;width: 350px;background-color:#441A1C;z-index: 1 ;}
 .position_img img:nth-child(2){left: -80px;bottom: -37px;width: 150px}
-.position_img img:nth-child(3){right: -10px;bottom: -7px;height: 50px; }
+.position_img img:nth-child(3){right: -10px;bottom: -7px;height: 50px;}
